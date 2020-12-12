@@ -1,0 +1,3 @@
+[submodule "flatris"]
+	path = flatris
+	url = https://github.com/timurb/flatris.git
